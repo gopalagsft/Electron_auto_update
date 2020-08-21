@@ -1,6 +1,6 @@
 {
   "name": "test_electronupdater",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "description": "",
   "main": "main.js",
   "scripts": {
@@ -19,6 +19,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gopalagsft/test_electronUpdater.git"
+    "url": "https://github.com/gopalagsft/Electron_auto_update.git"
   }
 }
